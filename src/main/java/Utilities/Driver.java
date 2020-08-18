@@ -19,7 +19,7 @@ public class Driver {
 
         WebDriverManager.chromedriver().setup();
 
-        return driver;
+        return driver; 
     }
 
 
